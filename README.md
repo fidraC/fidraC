@@ -8,3 +8,6 @@
 -->
 - 📫 How to reach me: CheongYX@cardiff.ac.uk
 - ⚡ Fun fact: This is my secondary account
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fidraC&theme=radical)](https://github.com/fidraC)
